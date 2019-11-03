@@ -5,6 +5,6 @@ Recuerden ejecutar ```npm install``` para las librerias.
 ## EJEMPLO:
 ```
 node app -d salsacate
-
+node app -d "La Cumbre"
 node app -d "Buenos Aires"
 ```
